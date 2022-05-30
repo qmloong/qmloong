@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🦸🏻‍♂️ Who says the hero is the one who stands in the light?
+
 <!--
 **qmloong/qmloong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
