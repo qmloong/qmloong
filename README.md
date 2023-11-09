@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🦸🏻‍♂️ Who says the hero is the one who stands in the light?
+🦸🏻‍♂️ Who says that only those who stand in the light are heroes?
 
 <!--
 **qmloong/qmloong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
